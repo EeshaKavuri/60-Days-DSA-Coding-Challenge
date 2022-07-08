@@ -1,1 +1,1 @@
-# 60-Days-DSA-Coding-Challenge
+# DSA A to Z
